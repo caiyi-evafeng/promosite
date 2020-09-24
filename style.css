@@ -1,0 +1,40 @@
+
+}
+html{
+  margin:0px;
+  padding: 0px;
+}
+
+body{
+  background-image:url(1.JPG );
+  background-size: cover;
+ background-color: #333;
+ color:#fff;
+ font-family: sans-serif;
+ padding: 0px;
+ margin: 0px;
+
+
+}
+h1{
+  font-size: 60px;
+
+}
+p:hover{
+  background-color: #444;
+  display: flex;
+}
+.mainContainer{
+  padding: 200px;
+
+}
+.subContainer{
+
+}
+ /* .style1{
+   ackground-color: #444;
+ } */
+
+ /* #specialStyle{
+   border: 2px solid #bbb;
+ } */
